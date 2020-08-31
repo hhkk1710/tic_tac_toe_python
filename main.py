@@ -152,6 +152,7 @@ def flip_player():
     return
 
 
+# this is something new
 play_game()
 # board
 # display board
